@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: ¡Estás de enhorabuena aznarez.es!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Ya no eres un gmail más, un hotmail del montón, ahora con aznarez.es ¡molas mogollón!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
