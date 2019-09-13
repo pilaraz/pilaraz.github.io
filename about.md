@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Soy maestra, además de community manager.
-### Más Información
-
-Me gusta viajar, salir, viajar y salir.
+Soy maestra vocacional, además de community manager.
 
 ### Contáctame
 
