@@ -7,4 +7,4 @@ Ya no eres un gmail más, un hotmail del montón, ahora con aznarez.es ¡molas m
 
 ![_config.yml]({{ site.baseurl }}/images/fotomolo.jpg)
 
-Podrás crearte un blog, cobrar a tus hermanas por una cuenta de correo nominal $$$ :), etc, etc..
+Podrás crearte un blog, cobrar a tus hermanas por una cuenta de correo nominal $$$ :), etc.
