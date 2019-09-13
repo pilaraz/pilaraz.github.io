@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Soy maestra, además de community manager.
+### Más Información
 
-### More Information
+Me gusta viajar, salir, viajar y salir.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contáctame
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[juego@lopez.es](mailto:juego@lopez.es)
